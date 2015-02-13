@@ -1,0 +1,70 @@
+/*
+*
+*	MCOP is a huffman compressor written in C
+*	@author : hamza bourrahim
+*
+*/
+
+[FR]
+
+Pour utiliser Mcop sur linux , merci d utiliser :
+
+	$ make compil    #will compile Mcop
+
+après executer  :
+
+	$ ./m-cop
+
+
+| Compresser un fichier |
+
+	$ ./m-cop -c <file>
+
+
+| décompresser file |
+
+	$ ./m-cop -d <file>
+
+| Compresser des fichiers dans un dossier |
+
+	$ ./m-cop -r --type <type of file (.txt)>
+
+
+Vous pouvez utiliser le mode verbose pour chaque commande , on ajoutant --verbose à la fin
+
+	$ ./m-cop -c <file> --verbose
+
+
+Pour windows , ajouter le projet sur VC et compiler 
+
+
+
+[EN]
+
+using Mcop under Linux , please use : 
+
+	$ make compil    #will compile Mcop
+
+then execute :
+
+	$ ./m-cop
+
+
+| Compress file |
+
+	$ ./m-cop -c <file>
+
+
+| decompress file |
+
+	$ ./m-cop -d <file>
+
+| Compress files in directory |
+
+	$ ./m-cop -r --type <type of file (.txt)>
+
+
+You can set --verbose mode for every action , just add --verbose at the end
+
+	$ ./m-cop -c <file> --verbose
+

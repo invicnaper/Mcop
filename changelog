@@ -1,0 +1,21 @@
+/*
+*
+*	MCOP is a huffman compressor written in C
+*	@author : hamza bourrahim
+*
+*/
+
+|13 - feb 2015|
+
+-fixing some segmentation fault
+-adding --verbose
+-you can set a file type using --type
+-adding types file
+-you should ADD MCOP_REC to gcc for using -r Option
+-adding recursive compression (-r)
+-you can use -c -d -h -r
+-parser for arguments
+-addind decompression
+-adding compression
+-adding node and list struct
+-Adding colors
