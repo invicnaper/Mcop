@@ -32,7 +32,7 @@ You can set --verbose mode for every action , just add --verbose at the end
 	
 | GCC |
 
-the Option MCOP_REC is set by default in gcc , so using ./m-cop -r is allowed
+the Option <b>MCOP_REC</b> is set by default in gcc , so using ./m-cop -r is allowed
 	
 | Windows |
 
