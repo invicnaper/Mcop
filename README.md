@@ -31,7 +31,9 @@ You can set --verbose mode for every action , just add --verbose at the end
 	$ ./m-cop -c <file> --verbose
 	
 | GCC |
+
 the Option MCOP_REC is set by default in gcc , so using ./m-cop -r is allowed
 	
 | Windows |
+
 Just add the source code to VC and then Compile
