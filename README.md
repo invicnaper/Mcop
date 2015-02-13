@@ -1,6 +1,8 @@
 # Mcop
  a huffman compressor/decompressor written in C
  
+ ![alt text]( http://nsa33.casimages.com/img/2015/02/13/150213091934728223.png "mcop logo")
+ 
 # How To Use
 
  using Mcop under Linux , please use : 
